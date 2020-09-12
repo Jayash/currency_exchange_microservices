@@ -4,7 +4,7 @@ Microservices using Spring Cloud
 
 A sample project to demonstrate spring cloud features 
 
-# Spring Cloud Features USed
+# Spring Cloud Features Used
 
 - Communication with other Microservices using Feign REST Client
 - Implement client side load balancing with Ribbon
